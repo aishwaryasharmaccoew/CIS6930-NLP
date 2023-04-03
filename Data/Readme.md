@@ -3,5 +3,5 @@ This is to understand the sample data format for Lpheada data.
 
 for the rest of dataset refer https://github.com/data-intelligence-for-health-lab/Lpheada-Labelled-Public-HEAlth-DAtaset
 
-
-
+Added SDCNL dataset, It contains 1895 reddit posts.
+Taken from : https://github.com/ayaanzhaque/SDCNL

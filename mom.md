@@ -2,8 +2,8 @@
 ## Progress on design front 
 ### Datasets to explore are :
 - Catering to mental health
-    - SDCNL 
-    - CMS
+    - SDCNL (https://github.com/ayaanzhaque/SDCNL)
+    - CAMS (https://github.com/drmuskangarg/CAMS)
 - Catering to lifestyle choices
     - Lpheada-Labelled-Public-HEAlth-DAtaset
     - healthcare_twitter_analysis
